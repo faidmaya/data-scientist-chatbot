@@ -17,3 +17,6 @@ Chatbot berbasis AI menggunakan Gemini API untuk membantu data scientists dengan
 
 ## Screenshots
 Lihat folder `screenshots/` untuk UI examples.
+
+
+https://faidmaya-data-scientist-chatbot.streamlit.app/
