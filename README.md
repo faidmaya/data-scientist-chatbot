@@ -12,7 +12,7 @@ Chatbot berbasis AI menggunakan Gemini API untuk membantu data scientists dengan
 
 ## Cara Run
 1. Install dependencies: `python3 -m pip install -r requirements.txt`
-2. Setup `.env` dengan GEMINI_API_KEY.
+2. Setup `.env` dengan GOOGLE_API_KEY.
 3. Jalankan: `python3 -m streamlit run app.py`
 
 ## Screenshots
